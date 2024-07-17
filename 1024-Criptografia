@@ -1,0 +1,51 @@
+"
+Solicitaram para que você construisse um programa simples de criptografia. Este programa deve possibilitar enviar mensagens
+codificadas sem que alguém consiga lê-las. O processo é muito simples. São feitas três passadas em todo o texto.
+Na primeira passada, somente caracteres que sejam letras minúsculas e maiúsculas devem ser deslocadas 3 posições para a direita,
+segundo a tabela ASCII: letra 'a' deve virar letra 'd', letra 'y' deve virar caractere '|' e assim sucessivamente.
+Na segunda passada, a linha deverá ser invertida. Na terceira e última passada, todo e qualquer caractere a partir da metade em diante (truncada)
+devem ser deslocados uma posição para a esquerda na tabela ASCII. Neste caso, 'b' vira 'a' e 'a' vira '`'. Por exemplo, se a entrada for “Texto #3”, 
+o primeiro processamento sobre esta entrada deverá produzir “Wh{wr #3”. O resultado do segundo processamento inverte os caracteres e produz “3# rw{hW”. 
+Por último, com o deslocamento dos caracteres da metade em diante, o resultado final deve ser “3# rvzgV”.
+"
+while True:
+  entrada = input()
+  if int(entrada) >= 1 and int(entrada) <= 1*(10**4):
+    N = int(entrada)
+    break
+# numero de linhas que o problema deve tratar
+Lista = []
+for i in range(N):
+  line = input()
+  Lista.append(line)
+for i in range(len(Lista)):
+  Soma_caracter = Lista[i]
+  nova_string = ""  # Create a new string to store modified characters
+  for j in range(len(Soma_caracter)):
+    #somente caracteres que são letras minúsculas ou maiúsculas podem ser alteradas 65-90 97-122
+    if Soma_caracter[j] >= 'a' and Soma_caracter[j] <= 'z' or Soma_caracter[j] >= 'A' and Soma_caracter[j] <= 'Z':
+      nova_string += chr(ord(Soma_caracter[j]) + 3)  # Build the new string
+    else:
+      nova_string += Soma_caracter[j]  # If not a letter, leave it unchanged
+  print(nova_string)  # Print the modified string
+  Lista[i]= nova_string
+for i in range(len(Lista)):
+  Soma_caracter = Lista[i]
+  final=len(Soma_caracter)
+  nova_string = ""
+  for j in range(final):
+    nova_string +=Soma_caracter[final-1-j]
+  print(nova_string)
+  Lista[i]= nova_string
+final= len(Lista)
+print(final)
+for i in range(final):
+  Soma_caracter = Lista[i]
+  final1=len(Soma_caracter)
+  metade=int(len(Soma_caracter)/2)
+  nova_string = ""
+  for k in range(metade):
+    nova_string += Soma_caracter[k] #0,1,2
+  for j in range(final1-metade):
+     nova_string += chr(ord(Soma_caracter[j+metade]) -1)
+  print(nova_string)
