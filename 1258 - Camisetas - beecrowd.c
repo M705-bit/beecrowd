@@ -1,8 +1,4 @@
-/* não terminei o exercício, falta separa por tamanho. Mas a lógica é essa. O códig ficou bem simples e provavelmente haverá problemas com a complexidade de tempo, visto que os algoritmos de ordenação tem tyme complexity de O(n2).  
-  A ideia de utilizar insertion sort era de  comparar os nomes no campo "nome" da struct de tipo "Camiseta" conforme o usuário os inseria, para fazer isso deveria haver algum algoritmo que não pegasse a primeira inserção de nome 
-  e quando o número de strings fosse maior que 0 teríamos como fazer essa comparação em tempo real e justificaria a utilização do insertion sort. Para ordenar primeiro por cor e dps por ordem alfabética de nome foi preciso que o 
-  usuáruo preenchesse tods os campos de entrada e dps disso comparávamos com if e else simples quem tinha escolhido cor branca ou vermelha, com isso os seárávamos em 2 grupos, ou seja 2 structs de mesmo tipo, e por último, para cada grupo,  
-  fazíamos a ordenação dos nomes em ordem alfabética com o insertion sort. No geral é um código bem simples. */
+/* não terminei o exercício, falta separa por tamanho. */
 
 #include <stdio.h>
 #include <string.h>
