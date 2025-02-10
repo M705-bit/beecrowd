@@ -1,3 +1,6 @@
+'''
+Resposta aceita pelo beecrowd
+'''
 class Hash_Table:
     def __init__(self, size):
         self.size = size  # Quantidade de endereços-base na hash table
