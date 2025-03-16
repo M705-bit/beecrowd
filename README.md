@@ -4,20 +4,21 @@ O site Beecrowd é um plataforma global que disponibiliza diversos exercícios p
 
 Nesta tabela, listo as categorias e os problemas que resolvi no Beecrowd.
 
-| Categoria                | Problema | Enunciado | Minha Solução |
-|--------------------------|----------|-----------|---------------|
-| Estruturas e Bibliotecas | 1022 - TDA Racional | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1022) | [Código](../blob/main/1022-TDA%20Racional.cpp) |
-| Ad-hoc                   | 1023 - Estiagem | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1023) | [Código](../blob/main/1023-Estiagem.c) |
-| Strings                  | 1024 - Criptografia | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1024) | [Código](../blob/main/1024-Criptografia) |
-| Estruturas e Bibliotecas | 1025 - Onde está o Mármore | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1025) | [Código](../blob/main/1025-Onde%20está%20o%20Mármore.cpp) |
-| Estruturas e Bibliotecas | 1062 - Trilhos | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1062) | [Código](../blob/main/1062-Trilhos.c) |
-| Estruturas e Bibliotecas | 1069 - Diamantes e Areia | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1069) | [Código](../blob/main/1069.py) |
-| Paradigmas               | 1112 - Schweisen | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1112) | [Código](../blob/main/1112%20-%20Schweisen.py) |
-| Estruturas e Bibliotecas | 1256 - Tabelas Hash | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1256) | [Código](../blob/main/1256_Tabelas_Hash.py) |
-| Ad-hoc                   | 1258 - Camisetas | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1258) | [Código](../blob/main/1258%20-%20Camisetas.cpp) |
-| Estruturas e Bibliotecas | 1259 - Pares e Ímpares | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1259) | [Código](../blob/main/1259.cpp) |
-| Estruturas e Bibliotecas | 1110 - Jogando Cartas Fora | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1110) | [Código](../blob/main/Jogando%20Cartas%20Fora.cpp) |
-| Estruturas e Bibliotecas | 1068 - Melhor da Pilha | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1068) | [Código](../blob/main/Melhor_da_Pilha.c) |
+| Categoria                | Problema | Enunciado | Minha Solução | Status |
+|--------------------------|----------|-----------|---------------|--------|
+| Estruturas e Bibliotecas | 1022 - TDA Racional | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1022) | [Código](../blob/main/1022-TDA%20Racional.cpp) | Resolvido |
+| Ad-hoc                   | 1023 - Estiagem | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1023) | [Código](../blob/main/1023-Estiagem.c) | Resolvido |
+| Strings                  | 1024 - Criptografia | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1024) | [Código](../blob/main/1024-Criptografia) | Resolvido |
+| Estruturas e Bibliotecas | 1025 - Onde está o Mármore | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1025) | [Código](../blob/main/1025-Onde%20está%20o%20Mármore.cpp) | Resolvido |
+| Estruturas e Bibliotecas | 1062 - Trilhos | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1062) | [Código](../blob/main/1062-Trilhos.c) | Resolvido |
+| Estruturas e Bibliotecas | 1069 - Diamantes e Areia | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1069) | [Código](../blob/main/1069.py) | Resolvido |
+| Paradigmas               | 1112 - Schweisen | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1112) | [Código](../blob/main/1112%20-%20Schweisen.py) | Resolvido |
+| Estruturas e Bibliotecas | 1256 - Tabelas Hash | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1256) | [Código](../blob/main/1256_Tabelas_Hash.py) | Resolvido |
+| Ad-hoc                   | 1258 - Camisetas | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1258) | [Código](../blob/main/1258%20-%20Camisetas.cpp) | Resolvido |
+| Estruturas e Bibliotecas | 1259 - Pares e Ímpares | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1259) | [Código](../blob/main/1259.cpp) | Resolvido |
+| Estruturas e Bibliotecas | 1110 - Jogando Cartas Fora | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1110) | [Código](../blob/main/Jogando%20Cartas%20Fora.cpp) | Resolvido |
+| Estruturas e Bibliotecas | 1068 - Melhor da Pilha | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1068) | [Código](../blob/main/Melhor_da_Pilha.c) | Resolvido |
+
 
 
 
