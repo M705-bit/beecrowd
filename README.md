@@ -18,7 +18,7 @@ Nesta tabela, listo as categorias e os problemas que resolvi no Beecrowd.
 | Estruturas e Bibliotecas | 1259 - Pares e Ímpares | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1259) | [Código](../blob/main/1259.cpp) | Resolvido |
 | Estruturas e Bibliotecas | 1110 - Jogando Cartas Fora | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1110) | [Código](../blob/main/Jogando%20Cartas%20Fora.cpp) | Resolvido |
 | Estruturas e Bibliotecas | 1068 - Melhor da Pilha | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1068) | [Código](../blob/main/Melhor_da_Pilha.c) | Resolvido |
-| Grafos                   | 1123 - Desvio de Rota | [Beecrowd](https://judge.beecrowd.com/pt/problems/view/1123) | [Código](../blob/main/Melhor_da_Pilha.c) | Não resolvido |
+| Grafos                   | 1123 - Desvio de Rota | [Beecrowd](https://judge.beecrowd.com/pt/problems/view/1123) | [Código](1123.py) | Não resolvido |
 
 
 
