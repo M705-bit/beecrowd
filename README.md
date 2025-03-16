@@ -12,7 +12,7 @@ Nesta tabela, listo as categorias e os problemas que resolvi no Beecrowd.
 | Estruturas e Bibliotecas | 1025 - Onde está o Mármore | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1025) | [Código](../blob/main/1025-Onde%20está%20o%20Mármore.cpp) | Resolvido |
 | Estruturas e Bibliotecas | 1062 - Trilhos | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1062) | [Código](../blob/main/1062-Trilhos.c) | Resolvido |
 | Estruturas e Bibliotecas | 1069 - Diamantes e Areia | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1069) | [Código](../blob/main/1069.py) | Resolvido |
-| Paradigmas               | 1112 - Schweisen | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1112) | [Código](../blob/main/1112%20-%20Schweisen.py) | Resolvido |
+| Paradigmas               | 1112 - Schweisen | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1112) | [Código](../blob/main/1112%20-%20Schweisen.py) | Não resolvido |
 | Estruturas e Bibliotecas | 1256 - Tabelas Hash | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1256) | [Código](../blob/main/1256_Tabelas_Hash.py) | Resolvido |
 | Ad-hoc                   | 1258 - Camisetas | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1258) | [Código](../blob/main/1258%20-%20Camisetas.cpp) | Resolvido |
 | Estruturas e Bibliotecas | 1259 - Pares e Ímpares | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1259) | [Código](../blob/main/1259.cpp) | Resolvido |
