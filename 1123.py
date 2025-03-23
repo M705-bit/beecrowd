@@ -1,40 +1,41 @@
-def bubble_sort(arr):
-    swapped = True
-    while swapped:
-        swapped = False
-        for i in range(len(arr) - 1):
-            if arr[i] > arr[i + 1]:  
-                arr[i], arr[i + 1] = arr[i + 1], arr[i]
-                swapped = True
-    return arr  # Retorna a lista ordenada
+import heapq
 
-def RegistraRotas(N, M, C, K, estrada):
-    pedagio = []
-    rota = 0
-    for i in range(len(estrada)):
-        if estrada[i][0] == K:
-            pedagio.append(estrada[i][2])  # Adiciona um novo pedágio
-            j = 0
-            while j < len(estrada) and estrada[j][1] != C - 1:
-                if estrada[j][0] == estrada[i][1]:
-                    pedagio[rota] += estrada[j][2]
-                    i = j
-                j += 1
-            rota += 1
+def dijkstra(N, C, K, adj):
+    INF = float('inf')
+    dist = [INF] * N
+    dist[K] = 0
+    pq = [(0, K)]  # Fila de prioridade (custo, cidade)
+    
+    while pq:
+        custo, u = heapq.heappop(pq)  # Retira o nó com menor custo
+        
+        if custo > dist[u]:
+            continue
+        
+        for v, p in adj[u]:
+            if u < C and v != u + 1:  # Se estiver na rota de serviço, deve seguir a rota
+                continue
+            
+            if dist[u] + p < dist[v]:  # Relaxamento
+                dist[v] = dist[u] + p
+                heapq.heappush(pq, (dist[v], v))
+    
+    return dist[C - 1]  # Retorna o menor custo para a cidade destino
 
-    if pedagio:  # Evita erro caso a lista esteja vazia
-        pedagio = bubble_sort(pedagio)
-        return pedagio[0]
-    return None  # Retorna None se não houver rota válida
+def RegistraRotas(N, M, C, K, estradas):
+    adj = [[] for _ in range(N)]
+    
+    for u, v, p in estradas:
+        adj[u].append((v, p))
+        adj[v].append((u, p))
+    
+    return dijkstra(N, C, K, adj)
 
-N, M, C, K = map(int, input().split())
-while (N + M + C + K) != 0:
-    estrada = []
-    for _ in range(M):  
-        u, v, p = map(int, input().split())  
-        estrada.append((u, v, p))  
-
-    print(RegistraRotas(N, M, C, K, estrada))
-
-    N, M, C, K = map(int, input().split())  # Atualiza os valores para evitar loop infinito
-
+while True:
+    N, M, C, K = map(int, input().split())
+    if N == M == C == K == 0:
+        break
+    
+    estradas = [tuple(map(int, input().split())) for _ in range(M)]
+    
+    print(RegistraRotas(N, M, C, K, estradas))
