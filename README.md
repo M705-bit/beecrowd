@@ -6,7 +6,7 @@ Nesta tabela, listo as categorias e os problemas que resolvi no Beecrowd.
 
 | Categoria                | Problema | Enunciado | Minha Solução | Status |
 |--------------------------|----------|-----------|---------------|--------|
-| Estruturas e Bibliotecas | 1022 - TDA Racional | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1022) | [Código](../blob/main/1022-TDA%20Racional.cpp) | Resolvido |
+| Estruturas e Bibliotecas | 1022 - TDA Racional | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1022) | [Código](https://github.com/M705-bit/beecrowd/blob/main/1022-%20TDA%20Racional.cpp) | Resolvido |
 | Ad-hoc                   | 1023 - Estiagem | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1023) | [Código](../blob/main/1023-Estiagem.c) | Resolvido |
 | Strings                  | 1024 - Criptografia | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1024) | [Código](../blob/main/1024-Criptografia) | Resolvido |
 | Estruturas e Bibliotecas | 1025 - Onde está o Mármore | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1025) | [Código](../blob/main/1025-Onde%20está%20o%20Mármore.cpp) | Resolvido |
