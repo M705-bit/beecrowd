@@ -21,5 +21,6 @@ Nesta tabela, listo as categorias e os problemas que resolvi no Beecrowd.
 | Stack                   |Removing Stars From a String| [Beecrowd](https://judge.beecrowd.com/pt/problems/view/1123) | 2390.py| Resolvido |
 | Queue                   | Number of Recent Calls |  [Beecrowd](https://judge.beecrowd.com/pt/problems/view/1195) | 933.py |Resolvido|
 | Queue                   | Dota2 Senate | | 649.py| Resolvido|
+| Linked List                   | Reverse Linked List | | 206.py| Resolvido|
 
 
