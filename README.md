@@ -20,6 +20,6 @@ Nesta tabela, listo as categorias e os problemas que resolvi no Beecrowd.
 | Estruturas e Bibliotecas | 1068 - Melhor da Pilha | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1068) | [Código](../blob/main/Melhor_da_Pilha.c) | Resolvido |
 | Grafos                   | 1123 - Desvio de Rota | [Beecrowd](https://judge.beecrowd.com/pt/problems/view/1123) | [Código](1123.py) | Resolvido |
 | Grafos                   | 1195 - Árvore Binária de Busca |  [Beecrowd](https://judge.beecrowd.com/pt/problems/view/1195) | [Código](1195.py) |Resolvido|
-| Grafos                   | 1148 - Países em Guerra |  Não resolvido|
+| Grafos                   | 1148 - Países em Guerra |  Resolvido|
 
 
