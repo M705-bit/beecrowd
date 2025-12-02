@@ -14,12 +14,12 @@ Nesta tabela, listo as categorias e os problemas que resolvi no Beecrowd.
 | Sliding Window | Maximum Average Subarray I |  | 643.py |Resolvido |
 | Sliding Window               | 1456. Maximum Number of Vowels in a Substring of Given Length |  | 1456.py | Resolvido |
 | Prefix Sum | Find the Highest Altitude |  | 1732.py | Resolvido |
-| Hashmap or Sets                   | Find the Difference of Two Arrays | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1258) | 2215.py| Resolvido |
-| Hashmap or Sets    | Determine if Two Strings Are Close  | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1259) | 1657.py| Resolvido |
-| Hashmap or Sets    | Equal Row and Column Pair | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1110) | 2352.py| Resolvido |
-| Stack | Decode String | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1068) | 394.py | Resolvido |
-| Stack                   |Removing Stars From a String| [Beecrowd](https://judge.beecrowd.com/pt/problems/view/1123) | 2390.py| Resolvido |
-| Queue                   | Number of Recent Calls |  [Beecrowd](https://judge.beecrowd.com/pt/problems/view/1195) | 933.py |Resolvido|
+| Hashmap or Sets                   | Find the Difference of Two Arrays |  | 2215.py| Resolvido |
+| Hashmap or Sets    | Determine if Two Strings Are Close  | | 1657.py| Resolvido |
+| Hashmap or Sets    | Equal Row and Column Pair | | 2352.py| Resolvido |
+| Stack | Decode String |  | 394.py | Resolvido |
+| Stack                   |Removing Stars From a String| | 2390.py| Resolvido |
+| Queue                   | Number of Recent Calls |   | 933.py |Resolvido|
 | Queue                   | Dota2 Senate | | 649.py| Resolvido|
 | Linked List                   | Reverse Linked List | | 206.py| Resolvido|
 
