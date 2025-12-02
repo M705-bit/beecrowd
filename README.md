@@ -6,7 +6,7 @@ Nesta tabela, listo as categorias e os problemas que resolvi no Beecrowd.
 
 | Categoria                | Problema | Enunciado | Minha Solução | Status |
 |--------------------------|----------|-----------|---------------|--------|
-| Arrays e Strings | Merge Strings Alternately | | 17698.py | Resolvido |
+| Arrays e Strings | Merge Strings Alternately | | 1768.py | Resolvido |
 | Arrays e Strings                   |Greatest Common Divisor of Strings |  | 1071.py | Resolvido |
 | Arrays e Strings           | Kids With the Greatest Number of Candies || 1431.py| Resolvido |
 | Two Pointers | Container With Most Water |  | 11.py | Resolvido |
