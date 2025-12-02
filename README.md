@@ -6,21 +6,20 @@ Nesta tabela, listo as categorias e os problemas que resolvi no Beecrowd.
 
 | Categoria                | Problema | Enunciado | Minha Solução | Status |
 |--------------------------|----------|-----------|---------------|--------|
-| Arrays e Strings | Merge Strings Alternately | | 1768.py | Resolvido |
-| Arrays e Strings                   |Greatest Common Divisor of Strings |  | 1071.py | Resolvido |
-| Arrays e Strings           | Kids With the Greatest Number of Candies || 1431.py| Resolvido |
-| Two Pointers | Container With Most Water |  | 11.py | Resolvido |
-| Two Pointers |Max Number of K-Sum Pairs |  | 1679.py | Resolvido |
-| Sliding Window | Maximum Average Subarray I |  | 643.py |Resolvido |
-| Sliding Window               | 1456. Maximum Number of Vowels in a Substring of Given Length |  | 1456.py | Resolvido |
-| Prefix Sum | Find the Highest Altitude |  | 1732.py | Resolvido |
-| Hashmap or Sets                   | Find the Difference of Two Arrays |  | 2215.py| Resolvido |
-| Hashmap or Sets    | Determine if Two Strings Are Close  | | 1657.py| Resolvido |
-| Hashmap or Sets    | Equal Row and Column Pair | | 2352.py| Resolvido |
-| Stack | Decode String |  | 394.py | Resolvido |
-| Stack                   |Removing Stars From a String| | 2390.py| Resolvido |
-| Queue                   | Number of Recent Calls |   | 933.py |Resolvido|
-| Queue                   | Dota2 Senate | | 649.py| Resolvido|
-| Linked List                   | Reverse Linked List | | 206.py| Resolvido|
+| Estruturas e Bibliotecas | 1022 - TDA Racional | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1022) | [Código](https://github.com/M705-bit/beecrowd/blob/main/1022-%20TDA%20Racional.cpp) | Resolvido |
+| Ad-hoc                   | 1023 - Estiagem | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1023) | [Código](../blob/main/1023-Estiagem.c) | Resolvido |
+| Strings                  | 1024 - Criptografia | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1024) | [Código](../blob/main/1024-Criptografia) | Resolvido |
+| Estruturas e Bibliotecas | 1025 - Onde está o Mármore | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1025) | [Código](../blob/main/1025-Onde%20está%20o%20Mármore.cpp) | Resolvido |
+| Estruturas e Bibliotecas | 1062 - Trilhos | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1062) | [Código](../blob/main/1062-Trilhos.c) | Resolvido |
+| Estruturas e Bibliotecas | 1069 - Diamantes e Areia | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1069) | [Código](../blob/main/1069.py) | Resolvido |
+| Paradigmas               | 1112 - Schweisen | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1112) | [Código](../blob/main/1112%20-%20Schweisen.py) | Não resolvido |
+| Estruturas e Bibliotecas | 1256 - Tabelas Hash | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1256) | [Código](../blob/main/1256_Tabelas_Hash.py) | Resolvido |
+| Ad-hoc                   | 1258 - Camisetas | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1258) | [Código](../blob/main/1258%20-%20Camisetas.cpp) | Resolvido |
+| Estruturas e Bibliotecas | 1259 - Pares e Ímpares | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1259) | [Código](../blob/main/1259.cpp) | Resolvido |
+| Estruturas e Bibliotecas | 1110 - Jogando Cartas Fora | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1110) | [Código](../blob/main/Jogando%20Cartas%20Fora.cpp) | Resolvido |
+| Estruturas e Bibliotecas | 1068 - Melhor da Pilha | [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1068) | [Código](../blob/main/Melhor_da_Pilha.c) | Resolvido |
+| Grafos                   | 1123 - Desvio de Rota | [Beecrowd](https://judge.beecrowd.com/pt/problems/view/1123) | [Código](1123.py) | Resolvido |
+| Grafos                   | 1195 - Árvore Binária de Busca |  [Beecrowd](https://judge.beecrowd.com/pt/problems/view/1195) | [Código](1195.py) |Resolvido|
+| Grafos                   | 1148 - Países em Guerra |  Não resolvido|
 
 
